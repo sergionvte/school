@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0"><head>
+<title>Arq. Sistema Operativo de Red</title>
+</head><body>
+	<outline text="Pila de Protocolos de Red">
+		<outline text="UDP" />
+		<outline text="UDP" />
+		<outline text="Otros protocolos" />
+		<outline text="TCP" />
+		<outline text="IP" />
+		<outline text="Ethernet" />
+	</outline>
+	<outline text="Seguridad de Red">
+		<outline text="IPS" />
+		<outline text="Autenticación de usuarios" />
+		<outline text="IDS" />
+		<outline text="Firewalls" />
+	</outline>
+	<outline text="Interfaz de Usuario y Apps">
+		<outline text="Aplicaciones que usan la red" />
+		<outline text="GUI" />
+	</outline>
+	<outline text="Gestión de Direcciones IP">
+		<outline text="Resolución de nombres de dominio">
+			<outline text="A direcciones IP" />
+		</outline>
+		<outline text="Administra direcciones IP" />
+		<outline text="Asigna direcciones IP" />
+	</outline>
+	<outline text="Gestiona Energía y Rendimiento">
+		<outline text="Optimiza el rendimiento" />
+		<outline text="Administra energia">
+			<outline text="Sistemas embebidos " />
+			<outline text="Dispositivos móviles " />
+		</outline>
+	</outline>
+	<outline text="Gestión de Conexiones y Sesiones">
+		<outline text="Mantiene conexiones" />
+		<outline text="Garantiza el orden correcto" />
+		<outline text="Finaliza conexiones" />
+		<outline text="Establece conexiones " />
+		<outline text="Entrega confiable de datos" />
+	</outline>
+	<outline text="Gestión de Recursos de Red">
+		<outline text="Administración de colas de red" />
+		<outline text="Gestión de ancho de banda" />
+		<outline text="Asignación direcciones IP" />
+	</outline>
+	<outline text="Servicios de Red">
+		<outline text="SMTP, POP3, IMAP" />
+		<outline text="Otros servicios " />
+		<outline text="SMB, NFS" />
+		<outline text="HTTP" />
+		<outline text="DNS" />
+	</outline>
+	<outline text="Capa de Interfaz de Red">
+		<outline text="Comunica dispositivos de red" />
+		<outline text="Admin. Interfaces de red" />
+	</outline>
+	<outline text="Kernel del SO">
+		<outline text="Comunica componentes entre si" />
+		<outline text="Programación de tareas" />
+		<outline text="Gestión de recursos " />
+	</outline>
+</body></opml>

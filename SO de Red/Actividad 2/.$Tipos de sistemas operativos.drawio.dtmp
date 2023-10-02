@@ -1,0 +1,97 @@
+<mxfile host="Electron" modified="2023-09-03T22:23:42.391Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="cSCXLZAREEOERRJq-4HS" version="21.3.7" type="device">
+  <diagram name="Page-1" id="lL_1FoENaZkrqZ5ZnQur">
+    <mxGraphModel dx="1776" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-1" target="qsq2Z_5bxlZM3Eb-OxGJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-1" value="Sistemas Operativos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="50" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-2" target="qsq2Z_5bxlZM3Eb-OxGJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-2" value="Programas encargados de administrar y gestionar los recursos de un dispositivo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="130" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-4" target="qsq2Z_5bxlZM3Eb-OxGJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-4" target="qsq2Z_5bxlZM3Eb-OxGJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-4" target="qsq2Z_5bxlZM3Eb-OxGJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-4" target="qsq2Z_5bxlZM3Eb-OxGJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-4" target="qsq2Z_5bxlZM3Eb-OxGJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-4" target="qsq2Z_5bxlZM3Eb-OxGJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-4" value="Tipos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-6" target="qsq2Z_5bxlZM3Eb-OxGJ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-6" value="Sistema Operativo por Lotes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-8" target="qsq2Z_5bxlZM3Eb-OxGJ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-8" value="Sistemas Operativos multitarea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-13" target="qsq2Z_5bxlZM3Eb-OxGJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-13" value="Sistemas Operativos en Tiempo Real" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-15" target="qsq2Z_5bxlZM3Eb-OxGJ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-15" value="Sistemas Distribuidos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-17" target="qsq2Z_5bxlZM3Eb-OxGJ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-17" value="Sistemas Operativos de Red" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qsq2Z_5bxlZM3Eb-OxGJ-20" target="qsq2Z_5bxlZM3Eb-OxGJ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-20" value="Sistemas Operativos Móviles" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-22" value="Este tipo de sistema operativo se caracteriza porque se encarga de ejecutar los procesos sin necesidad de que el usuario del sistema tenga que interactuar con el ordenador de manera directa. El sistema cuenta con un operador encargado de agrupar y dividir en varios lotes los trabajos que tienen que realizar, en función de su similitud." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-57.5" y="440" width="125" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-25" value="Esta clase de sistema operativo permite la ejecución de distintas tareas al mismo tiempo, tanto de un solo usuario como de varios. Así, cuando el sistema termina de ejecutar una tarea, ya sea de un usuario o de varias, continúa con la siguiente que tiene en espera. Un ejemplo de este tipo de sistema operativo es Unix." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="440" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-27" value="Un sistema operativo en tiempo real es el que deja un espacio de tiempo muy pequeño para el proceso de entradas, así como para darles respuesta. Se usan en sistemas que tienen unos requisitos muy elevados de tiempo de respuesta, y muy estrictos. Entre otros escenarios, se emplean en robots, sistemas encargados del control del tráfico aéreo o sistemas industriales." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="440" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-29" value="Estos trabajan con varios dispositivos a la vez, cada uno con su procesador, con el fin de ofrecer a sus usuarios una potencia elevada de computación. También la posibilidad de realizar cálculos y procesos de una manera muy veloz. Son sistemas que se han desarrollado hace relativamente poco tiempo, y permiten a sus usuarios el acceso a ficheros y programas que no están instalados o almacenados en el equipo que utilizan en un momento dado, pero que están en otros equipos que estén conectados al mismo sistema operativo que tiene el que están empleando." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="440" width="120" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-31" value="Son los que se ejecutan y administran en un servidor. A través de estos sistemas operativos se pueden gestionar distintas funciones de red, así como usuarios, grupos o datos. También, la seguridad de todos los equipos conectados a la red local o privada que tienen conexión con este servidor." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="440" width="120" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="qsq2Z_5bxlZM3Eb-OxGJ-33" value="Son los que se han creado y desarrollado para dispositivos móviles, fundamentalmente móviles y tablets, pero también relojes inteligentes. Los más conocidos son Android y iOS, como hemos visto, pero también hay otros como webOS y watchOS, para relojes inteligentes." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="440" width="120" height="225" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
